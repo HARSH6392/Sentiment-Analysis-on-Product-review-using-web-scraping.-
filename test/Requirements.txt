@@ -1,0 +1,14 @@
+Selenium
+Chromedriver-manager
+lxml
+html5lib
+requests
+beautifulsoup4
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+streamlit
+requests
+scrapy
